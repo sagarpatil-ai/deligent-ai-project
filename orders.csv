@@ -1,0 +1,141 @@
+order_id,customer_id,order_date,status,shipping_method,city,total_amount
+O00001,C0038,2022-02-20,Processing,Two-Day,London,6268.45
+O00002,C0059,2022-04-21,Shipped,Express,Mumbai,3842.25
+O00003,C0076,2024-10-24,Delivered,Standard,Berlin,5224.47
+O00004,C0015,2024-04-25,Processing,Standard,London,5588.71
+O00005,C0019,2022-04-21,Pending,Express,Sydney,6128.94
+O00006,C0073,2023-03-25,Shipped,Express,Mumbai,4614.5
+O00007,C0039,2024-12-22,Shipped,Express,Sydney,6116.32
+O00008,C0070,2024-02-07,Shipped,Two-Day,New York,1654.66
+O00009,C0056,2023-05-16,Shipped,Standard,New York,5321.9
+O00010,C0030,2024-11-13,Delivered,Two-Day,Sydney,3720.3
+O00011,C0003,2024-11-10,Delivered,Two-Day,New York,10579.43
+O00012,C0023,2024-01-01,Shipped,Express,London,10183.45
+O00013,C0024,2024-06-28,Shipped,Express,New York,2711.13
+O00014,C0061,2023-06-25,Shipped,Express,Mumbai,75.11
+O00015,C0014,2022-09-07,Shipped,Two-Day,Berlin,2592.1
+O00016,C0037,2024-10-26,Delivered,Two-Day,New York,3238.25
+O00017,C0059,2022-05-17,Shipped,Express,New York,8403.94
+O00018,C0052,2024-03-10,Delivered,Standard,Mumbai,1041.45
+O00019,C0070,2023-12-19,Shipped,Standard,Sydney,1047.94
+O00020,C0047,2024-08-25,Delivered,Two-Day,Berlin,10223.92
+O00021,C0007,2022-11-13,Processing,Standard,London,345.42
+O00022,C0057,2024-12-20,Shipped,Standard,Mumbai,5146.59
+O00023,C0078,2023-01-07,Delivered,Express,Sydney,5795.41
+O00024,C0002,2024-05-07,Shipped,Standard,New York,3746.95
+O00025,C0060,2022-07-02,Shipped,Standard,Berlin,6691.76
+O00026,C0038,2024-03-01,Delivered,Express,Berlin,812.12
+O00027,C0061,2023-01-14,Shipped,Standard,Berlin,7586.79
+O00028,C0025,2024-07-20,Shipped,Standard,New York,7506.07
+O00029,C0036,2023-10-07,Shipped,Two-Day,London,8385.62
+O00030,C0001,2023-03-16,Delivered,Two-Day,Sydney,4819.38
+O00031,C0063,2022-08-19,Shipped,Express,London,2376.87
+O00032,C0043,2024-05-07,Delivered,Express,Berlin,4583.69
+O00033,C0042,2022-10-21,Returned,Standard,Sydney,6417.87
+O00034,C0050,2022-12-29,Delivered,Express,New York,774.12
+O00035,C0041,2024-01-05,Delivered,Express,Berlin,4889.95
+O00036,C0020,2024-02-09,Returned,Standard,Sydney,5018.04
+O00037,C0076,2023-05-31,Delivered,Express,New York,5053.11
+O00038,C0068,2023-12-11,Pending,Standard,Berlin,1099.72
+O00039,C0020,2022-04-27,Shipped,Express,London,1571.46
+O00040,C0080,2024-12-12,Shipped,Standard,London,9583.51
+O00041,C0069,2023-08-14,Returned,Two-Day,Mumbai,3112.28
+O00042,C0063,2024-04-20,Pending,Standard,Toronto,3319.94
+O00043,C0037,2022-12-20,Delivered,Express,New York,1825.37
+O00044,C0013,2023-11-21,Processing,Express,New York,2550.55
+O00045,C0006,2023-05-19,Delivered,Express,London,4361.51
+O00046,C0048,2023-11-01,Processing,Two-Day,Berlin,8982.8
+O00047,C0073,2024-11-25,Delivered,Standard,Toronto,6357.94
+O00048,C0011,2024-08-04,Delivered,Two-Day,Mumbai,9008.31
+O00049,C0031,2024-02-13,Delivered,Standard,Toronto,8854.7
+O00050,C0060,2024-09-17,Processing,Express,Mumbai,673.96
+O00051,C0002,2023-12-24,Delivered,Two-Day,Sydney,10767.62
+O00052,C0021,2022-04-25,Shipped,Express,Sydney,7363.09
+O00053,C0039,2024-09-19,Returned,Two-Day,London,6154.32
+O00054,C0059,2023-04-15,Processing,Express,Berlin,4010.92
+O00055,C0014,2023-01-04,Shipped,Express,Sydney,12448.0
+O00056,C0038,2024-12-22,Processing,Two-Day,Berlin,1666.08
+O00057,C0036,2022-01-13,Shipped,Two-Day,Mumbai,8067.79
+O00058,C0007,2024-07-31,Delivered,Express,Toronto,6242.17
+O00059,C0078,2023-07-02,Processing,Standard,Sydney,11888.87
+O00060,C0033,2024-11-18,Delivered,Two-Day,Mumbai,7133.42
+O00061,C0018,2024-09-02,Pending,Two-Day,Mumbai,3562.85
+O00062,C0006,2023-04-25,Delivered,Standard,Sydney,5556.88
+O00063,C0047,2022-07-24,Pending,Express,London,4493.22
+O00064,C0054,2022-09-30,Processing,Two-Day,London,5843.22
+O00065,C0068,2024-02-19,Delivered,Standard,London,10298.17
+O00066,C0062,2023-04-04,Delivered,Express,New York,1801.42
+O00067,C0060,2022-04-27,Processing,Standard,Mumbai,503.64
+O00068,C0051,2024-05-15,Shipped,Express,New York,603.6
+O00069,C0034,2024-04-13,Processing,Express,Mumbai,1853.27
+O00070,C0034,2024-06-27,Shipped,Two-Day,London,2300.5
+O00071,C0014,2024-11-14,Processing,Standard,Sydney,14040.31
+O00072,C0072,2023-05-25,Delivered,Standard,Mumbai,2838.05
+O00073,C0009,2024-09-14,Delivered,Two-Day,London,3613.74
+O00074,C0053,2022-07-01,Processing,Standard,London,4355.23
+O00075,C0064,2022-06-30,Pending,Two-Day,Toronto,9284.58
+O00076,C0050,2023-12-06,Shipped,Two-Day,Mumbai,7169.89
+O00077,C0070,2023-10-14,Shipped,Two-Day,Toronto,8591.54
+O00078,C0054,2024-10-14,Pending,Express,Sydney,10179.03
+O00079,C0053,2023-03-11,Pending,Express,Toronto,6851.16
+O00080,C0057,2023-11-22,Returned,Express,New York,1610.2
+O00081,C0048,2024-04-25,Delivered,Two-Day,London,9385.67
+O00082,C0008,2023-09-11,Processing,Standard,Berlin,3909.52
+O00083,C0012,2024-10-26,Processing,Two-Day,Sydney,5843.32
+O00084,C0003,2022-03-20,Delivered,Standard,Toronto,909.59
+O00085,C0073,2022-11-15,Pending,Two-Day,Toronto,691.17
+O00086,C0076,2022-12-02,Delivered,Standard,London,3358.13
+O00087,C0019,2024-07-14,Pending,Standard,Toronto,4451.2
+O00088,C0070,2023-01-25,Delivered,Standard,Mumbai,8786.46
+O00089,C0004,2022-07-24,Pending,Standard,Sydney,9500.74
+O00090,C0042,2022-01-25,Processing,Standard,Toronto,2160.28
+O00091,C0054,2024-03-28,Processing,Standard,Berlin,1427.26
+O00092,C0058,2023-07-17,Shipped,Standard,Berlin,6277.55
+O00093,C0065,2022-12-11,Delivered,Standard,Mumbai,3659.6
+O00094,C0067,2023-04-14,Shipped,Standard,New York,699.27
+O00095,C0062,2023-09-16,Shipped,Standard,Berlin,10068.29
+O00096,C0057,2022-04-25,Delivered,Express,Sydney,5715.44
+O00097,C0019,2022-04-13,Processing,Two-Day,Mumbai,5897.88
+O00098,C0075,2024-05-01,Delivered,Express,Sydney,3566.48
+O00099,C0068,2023-04-04,Shipped,Two-Day,Berlin,5580.92
+O00100,C0013,2024-12-26,Processing,Two-Day,Mumbai,5701.2
+O00101,C0071,2022-12-01,Shipped,Standard,Berlin,1739.44
+O00102,C0044,2023-12-06,Shipped,Two-Day,New York,10332.31
+O00103,C0041,2023-10-25,Shipped,Express,London,5381.12
+O00104,C0020,2024-12-02,Delivered,Standard,New York,229.73
+O00105,C0011,2022-05-25,Shipped,Two-Day,Mumbai,7064.65
+O00106,C0048,2022-07-22,Shipped,Two-Day,Sydney,718.91
+O00107,C0072,2023-05-28,Shipped,Express,London,8919.34
+O00108,C0055,2022-03-21,Returned,Two-Day,London,7344.09
+O00109,C0046,2022-06-10,Shipped,Standard,Toronto,3111.9
+O00110,C0062,2022-12-15,Delivered,Express,Sydney,11243.17
+O00111,C0048,2022-06-28,Delivered,Two-Day,Toronto,6397.46
+O00112,C0055,2024-05-21,Returned,Two-Day,Sydney,1313.76
+O00113,C0072,2022-02-10,Shipped,Two-Day,Mumbai,2714.73
+O00114,C0035,2022-02-14,Processing,Two-Day,London,3529.96
+O00115,C0044,2023-06-30,Pending,Standard,Sydney,8396.77
+O00116,C0052,2022-04-19,Processing,Two-Day,New York,4003.8
+O00117,C0012,2024-04-04,Processing,Express,Berlin,4116.33
+O00118,C0044,2022-09-02,Shipped,Two-Day,London,1753.14
+O00119,C0073,2024-07-15,Pending,Standard,Toronto,7285.4
+O00120,C0021,2024-08-17,Pending,Standard,London,5718.2
+O00121,C0057,2024-10-25,Shipped,Two-Day,Berlin,7042.6
+O00122,C0054,2023-03-01,Processing,Two-Day,New York,3985.68
+O00123,C0045,2023-10-30,Processing,Two-Day,Mumbai,3414.42
+O00124,C0076,2024-01-26,Shipped,Express,New York,5613.81
+O00125,C0029,2023-09-07,Returned,Standard,New York,9970.52
+O00126,C0027,2023-04-14,Delivered,Standard,London,9633.1
+O00127,C0038,2023-05-25,Processing,Express,Mumbai,11311.05
+O00128,C0056,2022-09-30,Processing,Two-Day,Mumbai,5809.38
+O00129,C0030,2024-02-17,Shipped,Two-Day,London,5079.51
+O00130,C0010,2023-09-09,Delivered,Standard,Berlin,10910.48
+O00131,C0003,2023-12-16,Delivered,Express,Sydney,2568.48
+O00132,C0055,2024-06-09,Shipped,Two-Day,Berlin,4472.38
+O00133,C0038,2022-06-28,Shipped,Express,Toronto,5174.82
+O00134,C0080,2023-12-16,Delivered,Express,New York,3002.49
+O00135,C0056,2022-06-14,Processing,Two-Day,Berlin,7679.44
+O00136,C0068,2022-05-03,Shipped,Express,Mumbai,4766.97
+O00137,C0044,2022-12-11,Shipped,Standard,New York,7162.51
+O00138,C0066,2024-09-10,Processing,Two-Day,Toronto,6200.85
+O00139,C0045,2023-06-30,Delivered,Two-Day,Toronto,3978.65
+O00140,C0031,2022-06-09,Processing,Standard,Toronto,6742.79

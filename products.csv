@@ -1,0 +1,61 @@
+product_id,name,category,price,stock,rating
+P0001,Smart Speaker,Electronics,481.91,392,4.5
+P0002,Smartphone,Electronics,875.91,480,4.2
+P0003,4K Monitor,Electronics,1177.35,323,3.5
+P0004,Smartphone,Electronics,720.47,389,3.5
+P0005,Smartphone,Electronics,184.45,286,3.8
+P0006,Wireless Earbuds,Electronics,470.45,158,4.2
+P0007,Wireless Earbuds,Electronics,919.44,244,3.9
+P0008,Smartphone,Electronics,321.42,91,4.2
+P0009,Action Camera,Electronics,86.2,229,3.8
+P0010,Smart Speaker,Electronics,942.95,383,3.6
+P0011,Robot Vacuum,Home,1140.79,152,4.8
+P0012,LED Strip Lights,Home,204.05,114,4.2
+P0013,Robot Vacuum,Home,687.66,161,4.2
+P0014,Espresso Machine,Home,926.11,135,4.4
+P0015,Robot Vacuum,Home,938.91,133,4.9
+P0016,Robot Vacuum,Home,704.95,209,4.4
+P0017,Smart Thermostat,Home,491.07,416,3.8
+P0018,LED Strip Lights,Home,836.47,371,3.9
+P0019,Espresso Machine,Home,1024.09,357,4.7
+P0020,LED Strip Lights,Home,944.6,227,4.3
+P0021,Adjustable Dumbbells,Fitness,106.02,381,4.0
+P0022,Rowing Machine,Fitness,991.24,104,4.2
+P0023,Adjustable Dumbbells,Fitness,771.81,474,4.2
+P0024,Yoga Mat,Fitness,536.7,425,4.3
+P0025,Adjustable Dumbbells,Fitness,748.7,325,4.7
+P0026,Rowing Machine,Fitness,536.8,424,4.4
+P0027,Adjustable Dumbbells,Fitness,1025.76,475,4.9
+P0028,Adjustable Dumbbells,Fitness,1060.92,174,4.6
+P0029,Smart Scale,Fitness,742.14,244,4.0
+P0030,Rowing Machine,Fitness,1024.87,143,4.2
+P0031,Portable Grill,Outdoors,962.45,224,3.9
+P0032,Solar Lantern,Outdoors,848.89,191,4.3
+P0033,Solar Lantern,Outdoors,1138.97,93,3.9
+P0034,Kayak,Outdoors,599.08,438,3.9
+P0035,Kayak,Outdoors,783.94,301,4.2
+P0036,Camping Tent,Outdoors,134.34,163,4.1
+P0037,Hiking Backpack,Outdoors,384.79,347,4.1
+P0038,Solar Lantern,Outdoors,648.83,267,5.0
+P0039,Solar Lantern,Outdoors,413.68,409,4.2
+P0040,Portable Grill,Outdoors,320.4,111,4.6
+P0041,Bluetooth Tracker,Accessories,165.48,324,4.9
+P0042,Portable Charger,Accessories,250.06,428,4.2
+P0043,Noise-Canceling Headphones,Accessories,1172.51,318,4.4
+P0044,Phone Case,Accessories,1003.34,201,3.8
+P0045,Portable Charger,Accessories,380.16,412,4.3
+P0046,Bluetooth Tracker,Accessories,78.48,77,4.3
+P0047,Portable Charger,Accessories,774.5,435,4.2
+P0048,Phone Case,Accessories,699.53,290,4.2
+P0049,Bluetooth Tracker,Accessories,241.63,76,3.9
+P0050,USB-C Hub,Accessories,159.05,83,4.1
+P0051,Gaming Console,Gaming,703.0,401,3.6
+P0052,VR Headset,Gaming,978.09,205,3.6
+P0053,VR Headset,Gaming,164.18,441,4.1
+P0054,Graphics Tablet,Gaming,954.12,165,4.7
+P0055,Gaming Chair,Gaming,554.35,276,3.9
+P0056,Graphics Tablet,Gaming,1188.29,206,4.4
+P0057,Gaming Console,Gaming,741.32,428,3.6
+P0058,VR Headset,Gaming,759.98,185,4.5
+P0059,VR Headset,Gaming,306.84,332,3.6
+P0060,Gaming Console,Gaming,505.01,402,4.4
